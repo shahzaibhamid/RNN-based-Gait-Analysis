@@ -9,4 +9,5 @@ There are multiple Computer vision based Techniques that come before that such a
 
 This specific repository follows the dataset taken from OpenPose Technique.
 
-#This contains computation for only Gait Deviation Index and same can be completed for all other needed factors of Gait. 
+**This contains computation for only Gait Deviation Index and same can be completed for all other needed factors of Gait. 
+**
