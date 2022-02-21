@@ -8,3 +8,5 @@ The code available in this repository comes after the complete Pose Estimation b
 There are multiple Computer vision based Techniques that come before that such as OpenPose, DeepCut, DensePose, PoseNet and AlphaPose.
 
 This specific repository follows the dataset taken from OpenPose Technique.
+
+#This contains computation for only Gait Deviation Index and same can be completed for all other needed factors of Gait. 
